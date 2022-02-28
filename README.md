@@ -16,5 +16,3 @@ Code sharing session on Unit Testing in Go
   # View the coverage in the browser
   go tool cover -html=<name>.out
   ```
-
-
